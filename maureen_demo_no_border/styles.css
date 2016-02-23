@@ -1,0 +1,19 @@
+@charset "UTF-8";
+/* CSS Document */
+
+body {
+  margin: 0;
+}
+
+img {
+  width: 100%;
+}
+.background {
+  z-index: 0;
+}
+.border {
+  position: fixed;
+  z-index: 1;
+  width: 100vw;
+  height: 100vh;
+}
